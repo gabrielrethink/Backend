@@ -1,3 +1,3 @@
 # Treinamento-Backend
 
-Vamo inserir aqui todos os arquivos estras utilizados no treinamento de backend
+Vamo inserir aqui todos os arquivos extras utilizados no treinamento de backend
